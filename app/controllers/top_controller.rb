@@ -1,6 +1,6 @@
 class TopController < ApplicationController
   def index
-    @message = "おはようございます!"
+    @message = "click me"
   end
 
   def about
